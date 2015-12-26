@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/SQLitePCL.raw/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/apple/Projects/VoiceMailer/Droid/obj/Debug/__library_projects__/SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

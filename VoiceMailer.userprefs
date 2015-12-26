@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="iOS/VoiceMailer.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VoiceMailer" expanded="True">
+            <Node name="VoiceMailer" expanded="True" />
+            <Node name="VoiceMailer.Droid" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="VoiceMailer.iOS" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="MainViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="VoiceMailer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
